@@ -13,7 +13,7 @@ const About = () => {
           to responsive full-stack apps.
         </p>
         <a
-          href="https://drive.google.com/file/d/1ZqTWBWnx79YaUeX3OODqcyK3rphHabQ9/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1qU-LPD7k3VlODskgDnfkQ7iAVIQ1IgPZ/view?usp=drivesdk"
           target="_blank"
           rel="noreferrer"
           className="about-resume"

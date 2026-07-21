@@ -22,7 +22,7 @@ const Contact = () => {
             <h4>Education</h4>
             <p>
               B.Tech (Hons) — AI & Machine Learning, UCER Prayagraj — 2023–2027
-              · CGPA: 8.42
+              · CGPA: 8.33
             </p>
             <p>
               St. Mary's Convent School, Prayagraj — 12th: 83.2% · 10th: 94.6%
@@ -58,7 +58,7 @@ const Contact = () => {
               Email <MdArrowOutward />
             </a>
             <a
-              href="https://drive.google.com/file/d/1ZqTWBWnx79YaUeX3OODqcyK3rphHabQ9/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1qU-LPD7k3VlODskgDnfkQ7iAVIQ1IgPZ/view?usp=drivesdk"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
